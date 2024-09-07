@@ -1,0 +1,77 @@
+[
+    { 
+      
+        "id": 1,
+        "name":"<b>Men's Blue Shirt</b><br> A stylish men's blue shirt perfect for any casual occasion.        ",
+        "price": 75,
+        "image": "images/p1.png"
+        
+    },
+    {
+        "id": 2,
+        "name":"<b> Men's Black Shirt</b><br> Sleek and elegant, this black shirt is a wardrobe essential.",
+        "price": 250,
+        "image": "images/p2.png"
+    },
+    {
+        "id": 3,
+        "name":"<b>Women's Purple Dress</b><br>A chic purple dress for women, ideal for formal events.",
+        "price": 390,
+        "image": "images/p3.png"
+    },
+    {
+        "id": 4,
+        "name":"<b> Women's Red Dress</b><br>This vibrant red dress adds a bold flair to any outing.",
+        "price": 130,
+        "image": "images/p4.png"
+    },
+    {
+        "id": 5,
+        "name":"<b> Women's Bodycon</b><br> A figure-hugging bodycon dress that offers both style and comfort.",
+        "price": 27,
+        "image": "images/p5.png"
+    },
+    {
+        "id": 6,
+        "name":" <b>Women's Froks</b><br>Beautifully designed frocks for women, suitable for various occasions.",
+        "price": 500,
+        "image": "images/p6.png"
+    },
+    {
+        "id": 7,
+        "name":"<b> Women's Black Gown</b><br>A stunning black gown for women, perfect for evening wear.",
+        "price": 73,
+        "image": "images/p7.png"
+    },
+    {
+        "id": 8,
+        "name":"<b>Men's Denim Shirt</b><br>This durable denim shirt combines ruggedness with timeless fashion.",
+        "price": 19,
+        "image": "images/p8.png"
+    },
+    {
+        "id": 9,
+        "name":"<b>Blue Shirt</b><br>A classic blue shirt that enhances any casual or formal look.",
+        "price": 43,
+        "image": "images/p9.png"
+    },
+    {
+        "id": 10,
+        "name":"<b>Men's Cadetblue Shirt</b><br> This cadetblue shirt brings a fresh and unique style for men.",
+        "price": 67,
+        "image": "images/p10.png"
+    },
+    {
+        "id": 11,
+        "name":"<b> Men's Check Shirt</b><br>A trendy check shirt for men, ideal for casual everyday wear.",
+        "price": 85,
+        "image": "images/p11.png"
+    },
+    {
+        "id": 12,
+        "name":"<b> Women's Purple Gown</b><br>This elegant purple gown offers grace and sophistication for women.",
+        "price": 90,
+        "image": "images/p12.png"
+    }
+
+]
